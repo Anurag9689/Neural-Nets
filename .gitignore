@@ -1,0 +1,7 @@
+raw_images/
+mnist_original/
+mnist_csv/mnist_*10*
+csv_converted_images/
+raw_to_csv_convert.py
+cupy_vs_numpy_benchmark*
+env/
